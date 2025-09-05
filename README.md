@@ -1,3 +1,3 @@
 # Naan_Mudhalvan_HealthAI_IBM
 Healthcare Assistant Gen AI app using IBM granite  
-you need to have gradio, torch, transformers before running the program
+you need to have gradio, torch, transformers libraries installed before running the program
